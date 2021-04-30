@@ -28,7 +28,7 @@ object SubjectsObj {
 
     private fun modify(name: String) {
         val chosen = subjects.first { it.name == name }
-
+        //TODO modifying things
 
         subjects.removeIf { it.name == name }
     }
