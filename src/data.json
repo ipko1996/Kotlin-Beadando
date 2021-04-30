@@ -1,0 +1,97 @@
+[
+  {
+    "code": "VEMISAB332K",
+    "credit": 2,
+    "date": {
+      "day": "Wednesday",
+      "hour": 14,
+      "minutes": 0
+    },
+    "deadlines": [
+      {
+        "name": "zh1",
+        "time": "2021.02.05"
+      },
+      {
+        "name": "zh2",
+        "time": "2021.02.12"
+      }
+    ],
+    "interval": 1.5,
+    "links": [
+      "teams.com/kotlin",
+      "bbb.kotlin.hu",
+      "okt.uni.moodle.hu/kotlin"
+    ],
+    "name": "Kotlin",
+    "requirements": "8 mini tests, 1 assigment at the end of the year",
+    "teachers": [
+      "Kiss László"
+    ]
+  },
+  {
+    "code": "VEMISAB212M",
+    "credit": 2,
+    "date": {
+      "day": "Thursday",
+      "hour": 14,
+      "minutes": 0
+    },
+    "deadlines": [
+      {
+        "name": "zh1",
+        "time": "2021.03.15"
+      },
+      {
+        "name": "zh2",
+        "time": "2021.05.10"
+      }
+    ],
+    "interval": 1.5,
+    "links": [
+      "teams.com/kotlin",
+      "bbb.kotlin.hu",
+      "okt.uni.moodle.hu/kotlin"
+    ],
+    "name": "Software testing",
+    "requirements": "2 tests, 1 assigment at the end of the year",
+    "teachers": [
+      "Dr. Csertán György\n"
+    ]
+  },
+  {
+    "code": "asdf",
+    "credit": 3,
+    "date": {
+      "day": "valami",
+      "hour": 12,
+      "minutes": 10
+    },
+    "deadlines": [
+      {
+        "name": "dl1",
+        "time": "valami hatar"
+      }
+    ],
+    "interval": 3.2,
+    "links": [
+      "www.igen.com"
+    ],
+    "name": "igen",
+    "requirements": "aha",
+    "teachers": [
+      "valaki segitsen"
+    ]
+  },
+  {
+    "code": "ut1234",
+    "credit": 2,
+    "date": {
+      "day": "Tuesday",
+      "hour": 14,
+      "minutes": 30
+    },
+    "interval": 1.5,
+    "name": "ujtargy"
+  }
+]
